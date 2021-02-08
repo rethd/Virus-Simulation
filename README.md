@@ -1,7 +1,7 @@
 # Virus Simulation (Covid 19)
 
 ## Project Description: 
-Our task is to simulate the spread of a virus such as SARS-CoV-2, the pathogen behind COVID-19, and Ebola. </br> 
+This task aims to simulate the spread of a virus such as SARS-CoV-2, the pathogen behind COVID-19, and Ebola. </br> 
 The codes are written in Python3 which includes all the backend data analysis as well as function to visualize the simulation. </br>
 Following things that are considered for building this simulator: </br>
     • The K and R factors of the disease </br>
